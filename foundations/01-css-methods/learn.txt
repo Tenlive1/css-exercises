@@ -1,0 +1,15 @@
+What i learn is that im able to connect css externally by making a style.css which will connect what i put in css to html externally
+
+i have also learn how to do css internally by making style in head and just like it did externally i did it internally
+
+and finally i learn how to style inline which doesn't look good when reading it
+
+the CSS that i have used so far
+
+background-color - change the background color
+color - change the text color
+font-size
+text-align
+font-weight - which will increase the boldness
+
+also i learn how to link the external css to the html by using link
